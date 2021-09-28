@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Spr_Wall",
-    "path": "sprites/Spr_Wall/Spr_Wall.yy",
+    "name": "Spr_Ceiling",
+    "path": "sprites/Spr_Ceiling/Spr_Ceiling.yy",
   },
   "solid": false,
   "visible": true,
@@ -28,7 +28,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Obj_Wall",
+  "name": "Obj_Ceiling",
   "tags": [],
   "resourceType": "GMObject",
 }
